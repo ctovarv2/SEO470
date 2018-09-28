@@ -9,8 +9,38 @@
 
 <url>
   <loc>https://ctovarv2.github.io/SEO470/</loc>
-  <lastmod>2018-09-26T18:59:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2018-09-28T15:07:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ctovarv2.github.io/SEO470/index.html</loc>
+  <lastmod>2018-09-28T15:07:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ctovarv2.github.io/SEO470/practice.html</loc>
+  <lastmod>2018-09-28T15:07:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ctovarv2.github.io/SEO470/blog.html</loc>
+  <lastmod>2018-09-28T15:07:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ctovarv2.github.io/SEO470/about.html</loc>
+  <lastmod>2018-09-28T15:07:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ctovarv2.github.io/SEO470/contact.html</loc>
+  <lastmod>2018-09-28T15:07:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ctovarv2.github.io/SEO470/blog-single.html</loc>
+  <lastmod>2018-09-28T15:07:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
